@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">⏰ Pomodoro SPA com ReactJS</h1>
+<h1 style="text-align: center;">⏰ Projeto Timer Pomodoro</h1>
 
 ###
 
