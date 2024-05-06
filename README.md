@@ -1,6 +1,7 @@
-<h1><center>⏰ Pomodoro SPA com ReactJS</center></h1>
+<h1 style="text-align: center;">⏰ Pomodoro SPA com ReactJS</h1>
 
-#
+###
+
 
 ### 🔍 Visão Geral
 
@@ -110,10 +111,9 @@ Se deseja contribuir para este projeto, sua contribuição será muito bem-vinda
 
 5. Abra um pull request para que suas alterações sejam revisadas.
 
-
 ---
 
-#
+###
 
-##### **Andressa Borges** - Software Developer
-##### www.linkedin.com/in/andressaaborges
+<p><strong>Andressa Borges</strong> - Software Developer
+<br/>www.linkedin.com/in/andressaaborges</p>
