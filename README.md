@@ -1,4 +1,14 @@
-<h1 style="text-align: center;">⏰ Projeto Timer Pomodoro</h1>
+<h1 align="center">⏰ Projeto Timer Pomodoro
+<br/>
+
+![react](https://shields.io/badge/built%20with-React-lightblue?logo=react&style=plastic)
+![typescript](https://shields.io/badge/built%20with-TypeScript-blue?logo=typescript&style=plastic)
+![vite](https://shields.io/badge/built%20with-Vite-purple?logo=vite&style=plastic)
+![vscode](https://shields.io/badge/built%20with-VScode-white?logo=visualstudiocode&style=plastic)
+![git](https://shields.io/badge/built%20with-Git-orange?logo=git&style=plastic)
+![zod](https://shields.io/badge/built%20with-zod-darkblue?logo=zod&style=plastic)
+![date-fns](https://shields.io/badge/built%20with-date%20fns-darkred?logo=datefns&style=plastic)
+</h1>
 
 ###
 
